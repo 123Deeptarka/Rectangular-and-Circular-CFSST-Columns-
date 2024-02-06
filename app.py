@@ -17,5 +17,4 @@ import pickle
 #with st.sidebar:
      
     #selected=option_menu("Axial Capacity Prediction System",
-                         ["Circular CFSST Columns",
-                          "Rectangular CFSST Columns"],default_index=0)
+                         ["Circular CFSST Columns","Rectangular CFSST Columns"],default_index=0)
